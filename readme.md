@@ -20,6 +20,6 @@ s
 
 Captcha V2                                  | Captcha V3
 :------------------------------------------:|:-------------------------------------------:
-<img src="images/v2.png" width="450"></img>|<img src="images/v3.png" width="500" ></img>
+<img src="images/v2.png" width="450"></img> |<img src="images/v3.png" width="500" ></img>
 Only involves letters and digts             | Hard to solve even for humans
 
